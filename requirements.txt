@@ -1,0 +1,6 @@
+Interface==2.11.1
+setuptools==76.1.0
+tk==0.1.0
+zope.event==5.0
+zope.interface==7.2
+zope.schema==7.0.1
